@@ -1,4 +1,4 @@
-# vpn-block
+# Anti VPN for FiveM
 
 
 *FiveM VPN Block*
